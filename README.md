@@ -1,7 +1,7 @@
 Clone the project using the following command 
   git clone "https://github.com/aomkarjag/automated-birhday-email.git"
 
-Install all dependencies using the "npm install command"
+Install all dependencies using the "npm install" command
 
 This project typically uses the @sendgrid/mail library to send email to all the added recipients 
 On order to setup this feature one needs to verify their email in sendgrid and then add that email in the from key.
