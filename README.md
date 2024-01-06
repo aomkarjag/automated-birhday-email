@@ -7,4 +7,4 @@ This project typically uses the @sendgrid/mail library to send email to all the 
 On order to setup this feature one needs to verify their email in sendgrid and then add that email in the from key.
 
 Then you can use the UI to enter the recipient's email and date of birth. 
-At sharp 12:00 am an email will be sent to the intended recipients. You can add multiple recipients at once.
+At sharp 12:00 am an email will be sent to the intended recipients. You can add multiple recipients one by one.
